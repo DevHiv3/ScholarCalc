@@ -4,6 +4,11 @@
 
 ---
 
+
+![IMAGE 1](image-1.png)
+
+![IMAGE 2](image-2.png)
+
 ## 🌟 Features
 
 - ⚙️ **Full Scientific Functionality**
@@ -50,4 +55,6 @@ venv\Scripts\activate     # On Windows
 pip install -r requirements.txt
 
 python calculator-gui.py
+
+python scientific-calc.py
 ```

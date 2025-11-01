@@ -2,7 +2,7 @@ import tkinter as tk
 import math
 
 root = tk.Tk()
-root.title("Apple Scientific Calculator")
+root.title("Minimalistic Calculator")
 root.geometry("600x800")
 root.config(bg="#f5f5f7")
 root.resizable(True, True)
